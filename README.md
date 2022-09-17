@@ -1,16 +1,29 @@
-### Hi there 👋
+### I'm Femi Ayo-Tubosun. A fullstacck Python/Typescript Development
 
-<!--
-**femiayotubosun/femiayotubosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack
+- Django-- Django, DRF
+- Flask
+- FastApi
+- Express
+- Nest
+- Next
+- React
 
-Here are some ideas to get you started:
+⚒ Currently working with FastApi and NEXT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+
+## Django Projects
+
+
+## Nest Projects
+
+
+## Vanilla HTML/CSS/JS Projects
+
+
+## FastAPI projects
+
+
+## React Frontend Standalone Projects
+
